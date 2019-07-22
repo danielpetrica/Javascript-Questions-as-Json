@@ -1,2 +1,2 @@
-# Javascript Questions as Json
-## Markdown is beutifull but json is universal
+# JavaScript Questions as JSON
+#### Markdown is beautiful but JSON is more useful 
